@@ -1,0 +1,48 @@
+.pool-graph{
+    margin-top: 20px;
+}
+
+.graph{
+    display: flex;
+    
+}
+
+.graph-data{
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.graph-data-heading{
+    color: #848484;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.graph-data-total{
+    color: #FFF;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.extra{
+    width: 60px;
+    height: 30px;
+    border: 0.1px solid #9feb9e;
+    border-radius: 5px;
+    background: rgba(87, 236, 129, 0.10);
+
+
+}
+
+.graph-data-extra{
+    margin-left: 9px;
+    margin-top: 5px;
+    color: #23FF1F;
+    font-family: Montserrat;
+    font-weight: 800;
+    line-height: 120%;
+}

@@ -1,0 +1,34 @@
+.sidebar-header{
+    
+    padding-top: 30px;
+    padding-left: 10px;
+    background-image: linear-gradient(360deg,#1E2C39 100%, #202124 0%);
+    display: flex;
+    height: 7rem;
+}
+.image-header{
+    width: 57.05px;
+    height: 57.05px;
+    margin-left: 20px;
+    border-radius: 50%;
+    box-shadow: inset -1px 1px 0px 0px rgb(101, 158, 239), 2px 2px 24px 5px rgb(66, 134, 230);
+}
+.menu-sidebar{
+   width: auto;
+   height:  80rem; 
+   background-image: linear-gradient(360deg, #202124 0%, #1E2C39 100%);
+   color: #fff;
+   
+}
+.heading-sidebar{
+    color: #fff;
+    font-family: 'Montserrat';
+    letter-spacing: 1.5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item:not(.ant-menu-item-selected):hover{
+    background-color: rgb(22,119,255)
+}
+

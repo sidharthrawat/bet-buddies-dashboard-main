@@ -1,0 +1,19 @@
+.header-bar{
+    color: #a7acea;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.table-content{
+    display: flex;
+    width: 20rem;
+    background-color: 'rgb(32,33,36';
+    padding: 2;
+    border-radius: 5px;
+    margin-block: 10;
+    border: 2px solid rgb(239, 122, 122);
+}

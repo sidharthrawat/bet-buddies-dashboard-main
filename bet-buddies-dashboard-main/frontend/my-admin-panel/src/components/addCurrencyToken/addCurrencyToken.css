@@ -1,0 +1,24 @@
+.dropdown{
+    margin-left: 30rem
+}
+
+.recently-added-list-items{
+    display: flex;
+}
+
+.select-platform{
+    width: 178px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(191,201,240);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+.select-platform:hover{
+    background-color: rgb(19, 29, 74);
+    width: 180px;
+    border: none;
+    color: #ffffffc9
+}

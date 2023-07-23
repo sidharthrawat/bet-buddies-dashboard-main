@@ -1,0 +1,73 @@
+*{
+    border: 0px;
+    margin: 0;
+    padding: 0;
+}
+.parent .ant-table{
+    background-color: black  ;
+    color: white;
+}
+
+.parent .ant-table-tbody >tr >td{
+    border-bottom: 0px;
+}
+
+.parent .ant-table.ant-table-bordered >.ant-table-container >.ant-table-content >table >tbody>tr>td{
+    border-inline-end: none;
+
+}
+.parent .ant-table.ant-table-bordered >.ant-table-container{
+    border-inline-start: none;
+
+}
+
+.parent .ant-table.ant-table-bordered >.ant-table-container{
+    border-inline-start: none;
+    border-top: none;
+}
+/* .transaction-table .ant-table-wrapper .ant-table-thead>tr>th{
+    position: relative;
+    color: rgba(0, 0, 0, 0.88);
+    font-weight: 600;
+    background: #c80d0d;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.2s ease;
+} */
+.parent .ant-table-wrapper .ant-table-thead>tr>th{
+    position: relative;
+    /* color: #f00b0b; */
+    text-align: left;
+    font-weight: 600;
+    background: #000;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.2s ease;
+    border-top: 1px solid rgb(35, 80, 138)
+}
+.parent .ant-table-wrapper .ant-table.ant-table-bordered >.ant-table-container >.ant-table-content >table >thead>tr>th{
+    border-inline-end: none;
+    border-top: 2px solid rgb(35, 80, 138);
+    border-bottom: 2px solid #2e2e2e
+}
+.parent .ant-table-wrapper .ant-table.ant-table-bordered >.ant-table-container >.ant-table-content >table >thead>tr>td:hover{
+    /* border-inline-end: none;
+    border-top: 2px solid rgb(35, 80, 138);
+    border-bottom: 2px solid #2e2e2e */
+    background-color: #05264e;
+}
+tr.ant-table-row.ant-table-row:hover{
+    background-color: #05264e;
+}
+.ant-btn-default:not(:disabled):hover{
+    color: #e2e4e7;
+    background-color: #1373e7;
+}
+
+.transactions-button-container{
+    justify-content: space-between; 
+}
+.transaction-button{
+    margin-left: 30px;
+    background-color: rgb(23, 24, 27);
+    border: 1px solid rgb(22, 124, 200);
+    color: #fff;
+}

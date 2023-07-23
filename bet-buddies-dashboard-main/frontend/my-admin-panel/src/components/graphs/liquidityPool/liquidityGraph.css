@@ -1,0 +1,31 @@
+.main-container{
+    background: #181c40;
+    border-radius: 12px;
+    padding: 30px 50px;
+    flex: 1;
+    margin: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 400px;
+    border-radius: 12px;
+    background-color: #202124;
+    box-shadow: 5px 5px 15px #000000;;
+}
+
+.liquidity-graph-header-text{
+    color: #FFF;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.liquidity-graph-container{
+    width: 297px;
+    height: 279px;
+    margin-top: 40px;
+    color: rgb(242, 102, 102)
+}
+.data-wrapper{
+    margin-top: 50px;
+}

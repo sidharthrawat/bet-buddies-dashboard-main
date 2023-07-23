@@ -1,0 +1,1 @@
+{"version":3,"file":"oddTypes.js","sourceRoot":"","sources":["../../src/model/oddTypes.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAA+D;AAOxD,IAAM,OAAO,GAAb,MAAM,OAAO;CAGnB,CAAA;AAFG;IAAC,IAAA,eAAI,GAAE;;sCACM;AAFJ,OAAO;IAJnB,IAAA,iBAAM,EAAC;QACJ,UAAU,EAAE,IAAI;KACnB,CAAC;GAEW,OAAO,CAGnB;AAHY,0BAAO;AAIP,QAAA,aAAa,GAAG,wBAAa,CAAC,cAAc,CAAC,OAAO,CAAC,CAAC"}

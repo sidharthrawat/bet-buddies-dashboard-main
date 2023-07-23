@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+
+.content{
+    /* max-height: 40rem; */
+    /* background-image: url('../content/image5.avif'); */
+    background-image: linear-gradient(rgba(13, 6, 6), rgb(23, 24, 27), rgb(30, 43, 57));
+    /* background-color: #17181B; */
+}
+.header{
+    background-image: linear-gradient(rgb(30,43,57), rgb(13, 6, 6));
+    height: 20vh;
+}
+
+.add-platform-content{
+    background-image: url('../content/image5.avif');
+}
+.graphs{
+    display: inline-flex;
+    flex-direction: row;
+}

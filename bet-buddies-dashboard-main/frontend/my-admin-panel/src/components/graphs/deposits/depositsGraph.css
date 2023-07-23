@@ -1,0 +1,43 @@
+.deposit-graph-container{
+    width: 720px;
+    height: 670px;
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    border-radius: 12px;
+    padding: 30px 50px;
+    box-shadow: 5px 5px 15px #000000;
+    background-color: #202124;
+    /* margin: 10px;; */
+    /* background: #181c40;
+    border-radius: 12px;
+    padding: 30px 50px;
+    flex: 1;
+    margin: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 400px;
+    border-radius: 12px;
+    background-color: #202124;
+    box-shadow: 5px 5px 15px #000000;; */
+    
+    
+}
+.deposit-graph-header{
+    width: 176px;
+    height: 29px;
+}
+.deposit-graph-container h3{
+    color: #FFF;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+.deposit-graph-container h2{
+    color: #FFF;
+    font-size: 32px;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 120%;
+}
